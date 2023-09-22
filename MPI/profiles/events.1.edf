@@ -31,10 +31,10 @@
 28 TAUEVENT 0 "CWD | /users/bienz/raptor/build/raptor/krylov/tests" TriggerValue
 29 TAUEVENT 0 "Cache Size | 8192 KB" TriggerValue
 30 TAUEVENT 0 "Command Line | ./test_par_cg" TriggerValue
-31 TAUEVENT 0 "Ending Timestamp | 1695400633015155" TriggerValue
+31 TAUEVENT 0 "Ending Timestamp | 1695401336024950" TriggerValue
 32 TAUEVENT 0 "Executable | /users/bienz/raptor/build/raptor/krylov/tests/test_par_cg" TriggerValue
 33 TAUEVENT 0 "Hostname | wheeler301.alliance.unm.edu" TriggerValue
-34 TAUEVENT 0 "Local Time | 2023-09-22T10:37:12-06:00" TriggerValue
+34 TAUEVENT 0 "Local Time | 2023-09-22T10:48:55-06:00" TriggerValue
 35 TAUEVENT 0 "MPI Processor Name | wheeler301.alliance.unm.edu" TriggerValue
 36 TAUEVENT 0 "Memory Size | 49449064 kB" TriggerValue
 37 TAUEVENT 0 "Node Name | wheeler301.alliance.unm.edu" TriggerValue
@@ -42,7 +42,7 @@
 39 TAUEVENT 0 "OS Name | Linux" TriggerValue
 40 TAUEVENT 0 "OS Release | 3.10.0-1160.92.1.el7.x86_64" TriggerValue
 41 TAUEVENT 0 "OS Version | #1 SMP Tue Jun 20 11:48:01 UTC 2023" TriggerValue
-42 TAUEVENT 0 "Starting Timestamp | 1695400632866144" TriggerValue
+42 TAUEVENT 0 "Starting Timestamp | 1695401335806416" TriggerValue
 43 TAUEVENT 0 "TAU Architecture | default" TriggerValue
 44 TAUEVENT 0 "TAU Config |  -c++=mpicxx -cc=mpicc -fortran=mpif90 -mpi" TriggerValue
 45 TAUEVENT 0 "TAU Makefile | /users/bienz/tau/x86_64/lib/Makefile.tau-mpi" TriggerValue
@@ -90,10 +90,10 @@
 87 TAUEVENT 0 "TAU_TRACK_MESSAGE | on" TriggerValue
 88 TAUEVENT 0 "TAU_TRACK_SIGNALS | off" TriggerValue
 89 TAUEVENT 0 "TAU_TRACK_UNIFIED_MEMORY | off" TriggerValue
-90 TAUEVENT 0 "Timestamp | 1695400632866282" TriggerValue
-91 TAUEVENT 0 "UTC Time | 2023-09-22T16:37:12Z" TriggerValue
-92 TAUEVENT 0 "pid | 16630" TriggerValue
-93 TAUEVENT 0 "tid | 16630" TriggerValue
+90 TAUEVENT 0 "Timestamp | 1695401335806561" TriggerValue
+91 TAUEVENT 0 "UTC Time | 2023-09-22T16:48:55Z" TriggerValue
+92 TAUEVENT 0 "pid | 18358" TriggerValue
+93 TAUEVENT 0 "tid | 18358" TriggerValue
 94 TAUEVENT 0 "username | bienz" TriggerValue
 60000 TRACER 0 "EV_INIT" none
 60001 TRACER 0 "FLUSH" EntryExit

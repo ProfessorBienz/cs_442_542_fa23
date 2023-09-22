@@ -25,7 +25,7 @@
 20 TAUEVENT 0 "Message size received in wait : MPI_Waitall()  " TriggerValue
 23 TAUEVENT 0 "TauTraceClockOffsetEnd" TriggerValue
 24 TAUEVENT 0 "CPU Cores | 4" TriggerValue
-25 TAUEVENT 0 "CPU MHz | 2533.000" TriggerValue
+25 TAUEVENT 0 "CPU MHz | 2668.000" TriggerValue
 26 TAUEVENT 0 "CPU Type | Intel(R) Xeon(R) CPU X5550 @ 2.67GHz" TriggerValue
 27 TAUEVENT 0 "CPU Vendor | GenuineIntel" TriggerValue
 28 TAUEVENT 0 "CWD | /users/bienz/raptor/build/raptor/krylov/tests" TriggerValue
@@ -42,7 +42,7 @@
 39 TAUEVENT 0 "OS Name | Linux" TriggerValue
 40 TAUEVENT 0 "OS Release | 3.10.0-1160.92.1.el7.x86_64" TriggerValue
 41 TAUEVENT 0 "OS Version | #1 SMP Tue Jun 20 11:48:01 UTC 2023" TriggerValue
-42 TAUEVENT 0 "Starting Timestamp | 1695401335819098" TriggerValue
+42 TAUEVENT 0 "Starting Timestamp | 1695401335864139" TriggerValue
 43 TAUEVENT 0 "TAU Architecture | default" TriggerValue
 44 TAUEVENT 0 "TAU Config |  -c++=mpicxx -cc=mpicc -fortran=mpif90 -mpi" TriggerValue
 45 TAUEVENT 0 "TAU Makefile | /users/bienz/tau/x86_64/lib/Makefile.tau-mpi" TriggerValue
@@ -90,10 +90,10 @@
 87 TAUEVENT 0 "TAU_TRACK_MESSAGE | on" TriggerValue
 88 TAUEVENT 0 "TAU_TRACK_SIGNALS | off" TriggerValue
 89 TAUEVENT 0 "TAU_TRACK_UNIFIED_MEMORY | off" TriggerValue
-90 TAUEVENT 0 "Timestamp | 1695401335819249" TriggerValue
+90 TAUEVENT 0 "Timestamp | 1695401335864253" TriggerValue
 91 TAUEVENT 0 "UTC Time | 2023-09-22T16:48:55Z" TriggerValue
-92 TAUEVENT 0 "pid | 18413" TriggerValue
-93 TAUEVENT 0 "tid | 18413" TriggerValue
+92 TAUEVENT 0 "pid | 18425" TriggerValue
+93 TAUEVENT 0 "tid | 18425" TriggerValue
 94 TAUEVENT 0 "username | bienz" TriggerValue
 60000 TRACER 0 "EV_INIT" none
 60001 TRACER 0 "FLUSH" EntryExit
