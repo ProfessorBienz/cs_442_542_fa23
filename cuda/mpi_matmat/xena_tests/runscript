@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#SBATCH --partition=singleGPU
+#SBATCH --nodes=4
+#SBATCH --ntasks-per-node=1
+#SBATCH --time=01:00:00
+#SBATCH --job-name=hw5
+#SBATCH --gres=gpu:1
+
+source ~/.bashrc
+
+module load cuda
+module load gcc
+module load openmpi/4.1.4-7gqe
+
+nvidia-smi
+
+cd /users/bienz/cs442-542-f22/cuda/mpi_matmat/build/examples
+srun -n 4 ./time_mpi_matmat 100
